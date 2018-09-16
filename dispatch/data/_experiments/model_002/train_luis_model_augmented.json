@@ -1,0 +1,169 @@
+{
+  "luis_schema_version": "3.0.0",
+  "versionId": "Dispatch",
+  "name": "BoruDispatch",
+  "desc": "Dispatch model for BoruDispatch",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "l_DonburiBot"
+    },
+    {
+      "name": "q_boru_faq"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "help me",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "hey",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "where is the closest donburi place?",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "find me a chicken don",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "find a don near me",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "pork",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "what can you do?",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "beef donburi",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "how are you",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "find a don",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "i feel like having a pork don",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "how's it going?",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "find me a pork don",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "find me a donburi",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "is there a veg don around?",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "howdy",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "find me a fish donburi",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "find a donburi",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "help",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "find me a don",
+      "intent": "l_DonburiBot",
+      "entities": []
+    },
+    {
+      "text": "do you like sushi?",
+      "intent": "q_boru_faq",
+      "entities": []
+    },
+    {
+      "text": "who are you?",
+      "intent": "q_boru_faq",
+      "entities": []
+    },
+    {
+      "text": "chicken",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "fish",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "vishesh",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "beef",
+      "intent": "None",
+      "entities": []
+    }
+  ]
+}

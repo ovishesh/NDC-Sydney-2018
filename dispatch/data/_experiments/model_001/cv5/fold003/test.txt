@@ -1,0 +1,23 @@
+Label	Weight	Text
+l_DonburiBot	1.333333	find a don near me
+l_DonburiBot	1.333333	find me a chicken don
+l_DonburiBot	1.333333	find a donburi
+l_DonburiBot	1.333333	find me a don
+l_DonburiBot	1.333333	find a don near me
+l_DonburiBot	1.333333	find me a chicken don
+l_DonburiBot	1.333333	find a donburi
+l_DonburiBot	1.333333	find me a don
+l_DonburiBot	1.333333	find a don near me
+l_DonburiBot	1.333333	find me a chicken don
+l_DonburiBot	1.333333	find a donburi
+l_DonburiBot	1.333333	find me a don
+q_boru_faq	1.6	Who are you?
+q_boru_faq	1.6	Who are you?
+q_boru_faq	1.6	Who are you?
+q_boru_faq	1.6	Who are you?
+q_boru_faq	1.6	Who are you?
+q_boru_faq	1.6	Who are you?
+q_boru_faq	1.6	Who are you?
+q_boru_faq	1.6	Who are you?
+q_boru_faq	1.6	Who are you?
+q_boru_faq	1.6	Who are you?

@@ -1,0 +1,33 @@
+Label	Weight	Text
+l_DonburiBot	1.5	what can you do?
+l_DonburiBot	1.5	beef donburi
+l_DonburiBot	1.5	how are you
+l_DonburiBot	1.5	find a don
+l_DonburiBot	1.5	what can you do?
+l_DonburiBot	1.5	beef donburi
+l_DonburiBot	1.5	how are you
+l_DonburiBot	1.5	find a don
+l_DonburiBot	1.5	what can you do?
+l_DonburiBot	1.5	beef donburi
+l_DonburiBot	1.5	how are you
+l_DonburiBot	1.5	find a don
+None	1.8	vishesh
+None	1.8	vishesh
+None	1.8	vishesh
+None	1.8	vishesh
+None	1.8	vishesh
+None	1.8	vishesh
+None	1.8	vishesh
+None	1.8	vishesh
+None	1.8	vishesh
+None	1.8	vishesh
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?

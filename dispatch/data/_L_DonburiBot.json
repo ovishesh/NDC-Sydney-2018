@@ -1,0 +1,207 @@
+{
+  "luis_schema_version": "3.0.0",
+  "versionId": "0.1",
+  "name": "DonburiBot",
+  "desc": "",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "Find"
+    },
+    {
+      "name": "Greetings"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [
+    {
+      "name": "meat",
+      "children": [
+        "beef",
+        "chicken",
+        "fish",
+        "veg",
+        "pork"
+      ],
+      "roles": []
+    }
+  ],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "beef",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "beef donburi",
+      "intent": "Find",
+      "entities": [
+        {
+          "entity": "meat::beef",
+          "startPos": 0,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "chicken",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "find a don",
+      "intent": "Find",
+      "entities": []
+    },
+    {
+      "text": "find a don near me",
+      "intent": "Find",
+      "entities": []
+    },
+    {
+      "text": "find a donburi",
+      "intent": "Find",
+      "entities": []
+    },
+    {
+      "text": "find me a chicken don",
+      "intent": "Find",
+      "entities": [
+        {
+          "entity": "meat::chicken",
+          "startPos": 10,
+          "endPos": 16
+        }
+      ]
+    },
+    {
+      "text": "find me a don",
+      "intent": "Find",
+      "entities": []
+    },
+    {
+      "text": "find me a donburi",
+      "intent": "Find",
+      "entities": []
+    },
+    {
+      "text": "find me a fish donburi",
+      "intent": "Find",
+      "entities": [
+        {
+          "entity": "meat::fish",
+          "startPos": 10,
+          "endPos": 13
+        }
+      ]
+    },
+    {
+      "text": "find me a pork don",
+      "intent": "Find",
+      "entities": [
+        {
+          "entity": "meat::pork",
+          "startPos": 10,
+          "endPos": 13
+        }
+      ]
+    },
+    {
+      "text": "fish",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "help",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "help me",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "hey",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "how are you",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "howdy",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "how's it going?",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "i feel like having a pork don",
+      "intent": "Find",
+      "entities": [
+        {
+          "entity": "meat::pork",
+          "startPos": 21,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "is there a veg don around?",
+      "intent": "Find",
+      "entities": [
+        {
+          "entity": "meat::veg",
+          "startPos": 11,
+          "endPos": 13
+        }
+      ]
+    },
+    {
+      "text": "pork",
+      "intent": "Find",
+      "entities": []
+    },
+    {
+      "text": "vishesh",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what can you do?",
+      "intent": "Greetings",
+      "entities": []
+    },
+    {
+      "text": "where is the closest donburi place?",
+      "intent": "Find",
+      "entities": []
+    }
+  ]
+}

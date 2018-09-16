@@ -1,0 +1,33 @@
+Label	Weight	Text
+l_DonburiBot	1.5	find me a chicken don
+l_DonburiBot	1.5	find a don near me
+l_DonburiBot	1.5	hi
+l_DonburiBot	1.5	pork
+l_DonburiBot	1.5	find me a chicken don
+l_DonburiBot	1.5	find a don near me
+l_DonburiBot	1.5	hi
+l_DonburiBot	1.5	pork
+l_DonburiBot	1.5	find me a chicken don
+l_DonburiBot	1.5	find a don near me
+l_DonburiBot	1.5	hi
+l_DonburiBot	1.5	pork
+None	1.8	fish
+None	1.8	fish
+None	1.8	fish
+None	1.8	fish
+None	1.8	fish
+None	1.8	fish
+None	1.8	fish
+None	1.8	fish
+None	1.8	fish
+None	1.8	fish
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
+q_boru_faq	1.8	Who are you?
