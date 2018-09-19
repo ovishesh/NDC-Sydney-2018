@@ -6,7 +6,7 @@
     {
       "type": "Image",
       "url": "https://msignitedemo2016.blob.core.windows.net/stock/rice-bowl-color.png",
-      "size": "st"
+      "size": "stretch"
     },
     {
       "type": "TextBlock",
