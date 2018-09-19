@@ -1,0 +1,46 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Image",
+      "url": "https://msignitedemo2016.blob.core.windows.net/stock/rice-bowl-color.png",
+      "size": "st"
+    },
+    {
+      "type": "TextBlock",
+      "spacing": "medium",
+      "size": "default",
+      "weight": "bolder",
+      "text": "Hi I'm Boru!",
+      "wrap": true,
+      "maxLines": 0
+    },
+    {
+      "type": "TextBlock",
+      "size": "default",
+      "weight": "lighter",
+      "isSubtle": "yes",
+      "text": "Grab a cheeky donburi wherever you are!",
+      "wrap": true,
+      "maxLines": 1
+    },
+    {
+      "type": "TextBlock",
+      "size": "default",
+      "text": "Hi I'm Boru, your friendly neighbourhood donburi bot! I'll help you find the yummiest donburi wherever you are. And if you're here to find some sushi or poke bowls, this is not the place for you.",
+      "wrap": true,
+      "maxLines": 4
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Find a Don",
+      "data": {
+        "Find": "Find a don near me"
+      }
+    }
+  ]
+}
